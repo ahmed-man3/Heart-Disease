@@ -17,7 +17,7 @@ No necessary libraries to run the code except the ones available as part of the 
 
 For this project, I was interestested in using Heart Disease dataset to better understand:
 
-1. Is it possible for middle age people to get a heart disease ?
+1. Is it possible for young age people to get a heart disease ?
 2. What is the most common reasons for getting heart disease?
 3. What is the type of chest pain and which ones are likely to be a heart disease?
 
